@@ -1,0 +1,2045 @@
+[
+    {
+        "cover": "le-prieure-de-loranger",
+        "nb_pages": 958,
+        "read": 0,
+        "style": "fantasy,aventure,dragon,magie,medieval,mythologie",
+        "subtitle": "Integrale",
+        "title": "Le Prieure de l'Oranger",
+        "writer": "Samantha Shannon"
+    },
+    {
+        "cover": "alex-stern-tome-1-la-neuvieme-maison",
+        "nb_pages": 525,
+        "read": 0,
+        "style": "societe secrete,magie,mystere,fantome,paranormal,pouvoir",
+        "subtitle": "La Neuvieme Maison",
+        "title": "Alex Stern",
+        "writer": "Leigh Bardugo"
+    },
+    {
+        "cover": "six-of-crows-tome-1",
+        "nb_pages": 559,
+        "read": 0,
+        "style": "fantasy,aventure,magie,young adult,espionnage,amitie",
+        "subtitle": "Tome 1",
+        "title": "Six of Crows",
+        "writer": "Leigh Bardugo"
+    },
+    {
+        "cover": "six-of-crows-tome-2",
+        "nb_pages": 650,
+        "read": 0,
+        "style": "fantasy,aventure,magie,young adult,espionnage,amitie",
+        "subtitle": "Tome 2: La cite corrompue",
+        "title": "Six of Crows",
+        "writer": "Leigh Bardugo"
+    },
+    {
+        "cover": "grisha-tome-1",
+        "nb_pages": 338,
+        "read": 0,
+        "style": "fantasy,magie,pouvoir,aventure,orphelin,romance",
+        "subtitle": "Tome 1: Les Oprhelins du royaume",
+        "title": "Grisha",
+        "writer": "Leigh Bardugo"
+    },
+    {
+        "cover": "grisha-tome-2",
+        "nb_pages": 430,
+        "read": 0,
+        "style": "fantasy,magie,pouvoir,aventure,orphelin,romance",
+        "subtitle": "Tome 2: Le Dragon de glace",
+        "title": "Grisha",
+        "writer": "Leigh Bardugo"
+    },
+    {
+        "cover": "grisha-tome-3",
+        "nb_pages": 399,
+        "read": 0,
+        "style": "fantasy,magie,pouvoir,aventure,orphelin,romance",
+        "subtitle": "Tome 3: L'oiseau de feu ",
+        "title": "Grisha",
+        "writer": "Leigh Bardugo"
+    },
+    {
+        "cover": "cthulhu",
+        "nb_pages": 421,
+        "read": 0,
+        "style": "horreur,science-fiction,guilde",
+        "subtitle": "Survi en terres lovecraftiennes",
+        "title": "Cthulhu",
+        "writer": "Alain T Puyssegur"
+    },
+    {
+        "cover": "the-wicked-deep",
+        "nb_pages": 384,
+        "read": 0,
+        "style": "sorciere,romance,malediction,young adult,vengeance,magie",
+        "subtitle": "La malediction des Swan Sisters",
+        "title": "The Wicked Deep",
+        "writer": "Shea Ernshaw"
+    },
+    {
+        "cover": "le-peuple-de-lair-tome-1-le-prince-cruel-1276506",
+        "nb_pages": 544,
+        "read": 1,
+        "style": "fantasy,young adult,fae,romance,intrigue politique",
+        "subtitle": "Tome 1: Le Prince Cruel",
+        "title": "The Folk of the Air",
+        "writer": "Holly Black"
+    },
+    {
+        "cover": "le-peuple-de-lair-tome-15-les-soeurs-perdues-4921885",
+        "nb_pages": 64,
+        "read": 1,
+        "style": "fantasy,young adult,fae,romance,intrigue politique",
+        "subtitle": "Tome 1.5: Les Soeurs Perdues",
+        "title": "The Folk of the Air",
+        "writer": "Holly Black"
+    },
+    {
+        "cover": "le-roi-malefique",
+        "nb_pages": 461,
+        "read": 1,
+        "style": "fantasy,young adult,fae,romance,intrigue politique",
+        "subtitle": "Tome 2: Le Roi Malefique",
+        "title": "The Folk of the Air",
+        "writer": "Holly Black"
+    },
+    {
+        "cover": "le-peuple-de-lair-tome-3-la-reine-sans-royaume-4937556",
+        "nb_pages": 448,
+        "read": 0,
+        "style": "fantasy,young adult,fae,romance,intrigue politique",
+        "subtitle": "Tome 3: La Reine sans Royaume",
+        "title": "The Folk of the Air",
+        "writer": "Holly Black"
+    },
+    {
+        "cover": "diabolic-tome-1",
+        "nb_pages": 581,
+        "read": 0,
+        "style": "science-fiction,humanoide,politique,romance,royaute,young adult",
+        "subtitle": "Tome 1: Proteger ou mourir",
+        "title": "Diabolic",
+        "writer": "SJ Kincaid"
+    },
+    {
+        "cover": "diabolic-tome-2",
+        "nb_pages": 577,
+        "read": 0,
+        "style": "science-fiction,humanoide,politique,romance,royaute,young adult",
+        "subtitle": "Tome 2: Le Trone de sang",
+        "title": "Diabolic",
+        "writer": "SJ Kincaid"
+    },
+    {
+        "cover": "16-lunes",
+        "nb_pages": 635,
+        "read": 0,
+        "style": "romance,magie,fantasy,pouvoir,sorciere,suspence",
+        "subtitle": "Tome 1: 16 lunes",
+        "title": "Les Enchanteurs",
+        "writer": "Kami Garcia & Margaret Stohl"
+    },
+    {
+        "cover": "17-lunes",
+        "nb_pages": 567,
+        "read": 0,
+        "style": "romance,magie,fantasy,pouvoir,sorciere,suspence",
+        "subtitle": "Tome 2: 17 lunes",
+        "title": "Les Enchanteurs",
+        "writer": "Kami Garcia & Margaret Stohl"
+    },
+    {
+        "cover": "18-lunes",
+        "nb_pages": 571,
+        "read": 0,
+        "style": "romance,magie,fantasy,pouvoir,sorciere,suspence",
+        "subtitle": "Tome 3: 18 lunes",
+        "title": "Les Enchanteurs",
+        "writer": "Kami Garcia & Margaret Stohl"
+    },
+    {
+        "cover": "19-lunes",
+        "nb_pages": 437,
+        "read": 0,
+        "style": "romance,magie,fantasy,pouvoir,sorciere,suspence",
+        "subtitle": "Tome 4: 19 lunes",
+        "title": "Les Enchanteurs",
+        "writer": "Kami Garcia & Margaret Stohl"
+    },
+    {
+        "cover": "new-victoria",
+        "nb_pages": 791,
+        "read": 0,
+        "style": "steampunk,zombie,romance,fantasy,science-fiction",
+        "subtitle": "Integrale",
+        "title": "New Victoria",
+        "writer": "Lia Habel"
+    },
+    {
+        "cover": "ash-princess",
+        "nb_pages": 521,
+        "read": 0,
+        "style": "fantasy,romance,young adult,amour impossible,triangle amoureux,royaute",
+        "subtitle": "Tome 1",
+        "title": "Ash Princess",
+        "writer": "Laura Sebastian"
+    },
+    {
+        "cover": "lady-smoke",
+        "nb_pages": 632,
+        "read": 0,
+        "style": "fantasy,romance,young adult,amour impossible,triangle amoureux,royaute",
+        "subtitle": "Tome 2: Lady Smoke",
+        "title": "Ash Princess",
+        "writer": "Laura Sebastian"
+    },
+    {
+        "cover": "ember-queen",
+        "nb_pages": 567,
+        "read": 0,
+        "style": "fantasy,romance,young adult,amour impossible,triangle amoureux,royaute",
+        "subtitle": "Tome 3: Ember Queen",
+        "title": "Ash Princess",
+        "writer": "Laura Sebastian"
+    },
+    {
+        "cover": "crescent-city-tome-1",
+        "nb_pages": 952,
+        "read": 0,
+        "style": "fantasy,fae,esclave,romance,ange",
+        "subtitle": "Tome 1 : Maison de la terre et du sang",
+        "title": "Crescent City",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "keleana-tome-1-lassassineuse-1447148",
+        "nb_pages": 485,
+        "read": 1,
+        "style": "fantasy,aventure,assassin,romance,royaute",
+        "subtitle": "Tome 1: L'Assassineuse",
+        "title": "Keleana",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "keleana-tome-2",
+        "nb_pages": 490,
+        "read": 1,
+        "style": "fantasy,aventure,assassin,romance,royaute",
+        "subtitle": "Tome 2: La Reine sans couronne",
+        "title": "Keleana",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "keleana-tome-3",
+        "nb_pages": 588,
+        "read": 0,
+        "style": "fantasy,aventure,assassin,romance,royaute",
+        "subtitle": "Tome 3: L'Heritiere du feu",
+        "title": "Keleana",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "keleana-tome-4-la-reine-des-ombres-premiere-partie-1379685",
+        "nb_pages": 479,
+        "read": 0,
+        "style": "fantasy,aventure,assassin,romance,royaute",
+        "subtitle": "Tome 4.1: La Reine des Ombres",
+        "title": "Keleana",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "keleana-tome-4-la-reine-des-ombres-deuxieme-partie-1450655",
+        "nb_pages": 368,
+        "read": 0,
+        "style": "fantasy,aventure,assassin,romance,royaute",
+        "subtitle": "Tome 4.2: La Reine des Ombres",
+        "title": "Keleana",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "keleana-tome-4-la-reine-des-ombres-deuxieme-partie-1450655",
+        "nb_pages": 775,
+        "read": 0,
+        "style": "fantasy,aventure,assassin,romance,royaute",
+        "subtitle": "Tome 5: L'Empire des Tempetes",
+        "title": "Keleana",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "le-sang-et-la-cendre-tome-1",
+        "nb_pages": 664,
+        "read": 1,
+        "style": "fantasy,romance,new adult,trahison,vampire",
+        "subtitle": "Tome 1: Le Sang et la Cendre",
+        "title": "From Blood and Ash",
+        "writer": "Jennifer L Armentrout"
+    },
+    {
+        "cover": "from-blood-and-ash-tome-2-un-royaume-de-chair-et-de-feu-5010277",
+        "nb_pages": 764,
+        "read": 0,
+        "style": "fantasy,romance,new adult,trahison,vampire",
+        "subtitle": "Tome 2: Un Royaume de Chair et de Feu",
+        "title": "From Blood and Ash",
+        "writer": "Jennifer L Armentrout"
+    },
+    {
+        "cover": "la-fiancee-tome-1",
+        "nb_pages": 356,
+        "read": 0,
+        "style": "royaute,romance,amour,triangle amoureux,pouvoir",
+        "subtitle": "Tome 1",
+        "title": "La Fiancee",
+        "writer": "Kiera Cass"
+    },
+    {
+        "cover": "la-fiancee-tome-2-amoureuse",
+        "nb_pages": 333,
+        "read": 0,
+        "style": "royaute,romance,amour,triangle amoureux,pouvoir",
+        "subtitle": "Tome 2: L'Amoureuse",
+        "title": "La Fiancee",
+        "writer": "Kiera Cass"
+    },
+    {
+        "cover": "la-cite-du-ciel-tome-1",
+        "nb_pages": 448,
+        "read": 0,
+        "style": "young adult,fantasy,sacrifice,famille,amitie,magie",
+        "subtitle": "Tome 1",
+        "title": "La Cite du Ciel",
+        "writer": "Amy Ewing"
+    },
+    {
+        "cover": "la-cite-du-ciel-tome-2-lalcazar",
+        "nb_pages": 442,
+        "read": 0,
+        "style": "young adult,fantasy,sacrifice,famille,amitie,magie",
+        "subtitle": "Tome 2: L'Alcazar",
+        "title": "La Cite du Ciel",
+        "writer": "Amy Ewing"
+    },
+    {
+        "cover": "four-dead-queens",
+        "nb_pages": 571,
+        "read": 0,
+        "style": "fantasy,manipulation,secret,young adult,enquete,assassinat",
+        "subtitle": "Integrale",
+        "title": "Four Dread Queens",
+        "writer": "Astrid Scholte"
+    },
+    {
+        "cover": "serpent-and-dove-tome-1",
+        "nb_pages": 569,
+        "read": 0,
+        "style": "fantasy,sorciere,romance,magie,religion,eglise",
+        "subtitle": "Tome 1",
+        "title": "Serpent & Dove",
+        "writer": "Shelby Mahurin"
+    },
+    {
+        "cover": "the-book-of-ivy-tome-1-1391775",
+        "nb_pages": 301,
+        "read": 1,
+        "style": "romance,dystopie,young adult,science-fiction,apres-guerre,aventure",
+        "subtitle": "Tome 2",
+        "title": "The Book of Ivy",
+        "writer": "Amy Engel"
+    },
+    {
+        "cover": "the-book-of-ivy-tome-2-the-revolution-of-ivy",
+        "nb_pages": 282,
+        "read": 0,
+        "style": "romance,dystopie,young adult,science-fiction,apres-guerre,aventure",
+        "subtitle": "Tome 2: The Revolution of Ivy",
+        "title": "The Book of Ivy",
+        "writer": "Amy Engel"
+    },
+    {
+        "cover": "les-100-tome-1-1381506",
+        "nb_pages": 360,
+        "read": 1,
+        "style": "dystopie,science-fiction,aventure,action,espace,post-apocalyptique",
+        "subtitle": "Tome 1",
+        "title": "Les 100",
+        "writer": "Kass Morgan"
+    },
+    {
+        "cover": "les-100-tome-2-21-jour",
+        "nb_pages": 356,
+        "read": 0,
+        "style": "dystopie,science-fiction,aventure,action,espace,post-apocalyptique",
+        "subtitle": "Tome 2: 21e jour",
+        "title": "Les 100",
+        "writer": "Kass Morgan"
+    },
+    {
+        "cover": "les-100-tome-3-retour",
+        "nb_pages": 331,
+        "read": 0,
+        "style": "dystopie,science-fiction,aventure,action,espace,post-apocalyptique",
+        "subtitle": "Tome 3: Retour",
+        "title": "Les 100",
+        "writer": "Kass Morgan"
+    },
+    {
+        "cover": "les-100-tome-4-rebellion",
+        "nb_pages": 302,
+        "read": 0,
+        "style": "dystopie,science-fiction,aventure,action,espace,post-apocalyptique",
+        "subtitle": "Tome 4: Rebellion",
+        "title": "Les 100",
+        "writer": "Kass Morgan"
+    },
+    {
+        "cover": "red-queen-tome-1",
+        "nb_pages": 444,
+        "read": 0,
+        "style": "dystopie,trahison,young adult,romance,pouvoir,fantasy",
+        "subtitle": "Tome 1",
+        "title": "Red Queen",
+        "writer": "Victoria Aveyard"
+    },
+    {
+        "cover": "red-queen-tome-2-glass-sword",
+        "nb_pages": 472,
+        "read": 0,
+        "style": "dystopie,trahison,young adult,romance,pouvoir,fantasy",
+        "subtitle": "Tome 2: Glass Sword",
+        "title": "Red Queen",
+        "writer": "Victoria Aveyard"
+    },
+    {
+        "cover": "red-queen-tome-3-kings-cage",
+        "nb_pages": 599,
+        "read": 0,
+        "style": "dystopie,trahison,young adult,romance,pouvoir,fantasy",
+        "subtitle": "Tome 3: King's Cage",
+        "title": "Red Queen",
+        "writer": "Victoria Aveyard"
+    },
+    {
+        "cover": "winner-tome-1-the-curse",
+        "nb_pages": 456,
+        "read": 0,
+        "style": "fantasy,young adult,romance,esclave,strategie militaire",
+        "subtitle": "Tome 1: The Curse",
+        "title": "Winner",
+        "writer": "Marie Rutkoski"
+    },
+    {
+        "cover": "winner-tome-2-the-crime",
+        "nb_pages": 535,
+        "read": 0,
+        "style": "fantasy,young adult,romance,esclave,strategie militaire",
+        "subtitle": "Tome 2: The Crime",
+        "title": "Winner",
+        "writer": "Marie Rutkoski"
+    },
+    {
+        "cover": "la-cite-des-tenebres-tome-1-la-coupe-mortelle-4412172",
+        "nb_pages": 576,
+        "read": 1,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie",
+        "subtitle": "Tome 1: La Cite des tenebres",
+        "title": "The Mortal Instrument",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-tome-2-la-cite-des-cendres",
+        "nb_pages": 524,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie",
+        "subtitle": "Tome 2: La Cite des cendres",
+        "title": "The Mortal Instrument",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-tome-3-la-cite-de-verre",
+        "nb_pages": 607,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie",
+        "subtitle": "Tome 3: La Cite de verre",
+        "title": "The Mortal Instrument",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-tome-4-la-cite-des-anges-dechus",
+        "nb_pages": 507,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie",
+        "subtitle": "Tome 4: La Cite des anges",
+        "title": "The Mortal Instrument",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-tome-5-la-cite-des-ames-perdues",
+        "nb_pages": 601,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie",
+        "subtitle": "Tome 5: La Cite des ames",
+        "title": "The Mortal Instrument",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-tome-6-la-cite-du-feu-sacre",
+        "nb_pages": 791,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie",
+        "subtitle": "Tome 6: La Cite du feu sacre",
+        "title": "The Mortal Instrument",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-les-origines-tome-1-lange-mecanique",
+        "nb_pages": 539,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie,steampunk",
+        "subtitle": "Tome 1: L'Ange mecanique",
+        "title": "TMI - Les Origines",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-les-origines-tome-2-le-prince-mecanique",
+        "nb_pages": 572,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie,steampunk",
+        "subtitle": "Tome 2: Le Prince mecanique",
+        "title": "TMI - Les Origines",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "la-cite-des-tenebres-les-origines-tome-3-la-princesse-mecanique",
+        "nb_pages": 606,
+        "read": 0,
+        "style": "fantasy,romance,loup-garou,ado,vampire,aventure,amitie,steampunk",
+        "subtitle": "Tome 3: La Princesse mecanique",
+        "title": "TMI - Les Origines",
+        "writer": "Cassandra Clare"
+    },
+    {
+        "cover": "eternels-tome-1-evermore",
+        "nb_pages": 342,
+        "read": 0,
+        "style": "romance,fantasy,surnaturel,mystere",
+        "subtitle": "Tome 1: Evermore",
+        "title": "Eternels",
+        "writer": "Alysson Noel"
+    },
+    {
+        "cover": "eternels-tome-2-lune-bleue",
+        "nb_pages": 315,
+        "read": 0,
+        "style": "romance,fantasy,surnaturel,mystere",
+        "subtitle": "Tome 2: Lune bleue",
+        "title": "Eternels",
+        "writer": "Alysson Noel"
+    },
+    {
+        "cover": "eternels-tome-3-le-pays-des-ombres",
+        "nb_pages": 333,
+        "read": 0,
+        "style": "romance,fantasy,surnaturel,mystere",
+        "subtitle": "Tome 3: Le pays des ombres",
+        "title": "Eternels",
+        "writer": "Alysson Noel"
+    },
+    {
+        "cover": "eternels-tome-4-la-flamme-des-tenebres",
+        "nb_pages": 330,
+        "read": 0,
+        "style": "romance,fantasy,surnaturel,mystere",
+        "subtitle": "Tome 4: La flamme des tenebres",
+        "title": "Eternels",
+        "writer": "Alysson Noel"
+    },
+    {
+        "cover": "eternels-tome-5-une-etoile-dans-la-nuit",
+        "nb_pages": 360,
+        "read": 0,
+        "style": "romance,fantasy,surnaturel,mystere",
+        "subtitle": "Tome 5: Une etoile dans la nuit",
+        "title": "Eternels",
+        "writer": "Alysson Noel"
+    },
+    {
+        "cover": "eternels-tome-6-pour-toujours",
+        "nb_pages": 380,
+        "read": 0,
+        "style": "romance,fantasy,surnaturel,mystere",
+        "subtitle": "Tome 6: Pour toujours",
+        "title": "Eternels",
+        "writer": "Alysson Noel"
+    },
+    {
+        "cover": "lepreuve-tome-1-le-labyrinthe",
+        "nb_pages": 456,
+        "read": 0,
+        "style": "science-fiction,dystopie,aventure,action,young adult,ado,fantasy,amitie,survie",
+        "subtitle": "Tome 1",
+        "title": "Le Labyrinthe",
+        "writer": "James Dashner"
+    },
+    {
+        "cover": "lepreuve-tome-2-la-terre-brulee",
+        "nb_pages": 472,
+        "read": 0,
+        "style": "science-fiction,dystopie,aventure,action,young adult,ado,fantasy,amitie,survie",
+        "subtitle": "Tome 2: La Terre Br\u00fblee",
+        "title": "Le Labyrinthe",
+        "writer": "James Dashner"
+    },
+    {
+        "cover": "lepreuve-tome-3-le-remede-mortel",
+        "nb_pages": 442,
+        "read": 0,
+        "style": "science-fiction,dystopie,aventure,action,young adult,ado,fantasy,amitie,survie",
+        "subtitle": "Tome 3: Le Remede Mortel",
+        "title": "Le Labyrinthe",
+        "writer": "James Dashner"
+    },
+    {
+        "cover": "lepreuve-tome-04-avant-le-labyrinthe-lordre-de-tuer",
+        "nb_pages": 431,
+        "read": 0,
+        "style": "science-fiction,dystopie,aventure,action,young adult,ado,fantasy,amitie,survie",
+        "subtitle": "Tome 0.4: L'Ordre de Tuer",
+        "title": "Le Labyrinthe",
+        "writer": "James Dashner"
+    },
+    {
+        "cover": "le-trone-de-fer-integrale-1",
+        "nb_pages": 786,
+        "read": 0,
+        "style": "fantasy,guerre,pouvoir,intrigue,aventure",
+        "subtitle": "Integrale 1",
+        "title": "Le Trone de fer ",
+        "writer": "George R R Martin"
+    },
+    {
+        "cover": "lore",
+        "nb_pages": 637,
+        "read": 0,
+        "style": "mythologie grecque,young adult,vengeance,fantasy,meurtre",
+        "subtitle": "Integrale",
+        "title": "Lore",
+        "writer": "Alexandra Bracken"
+    },
+    {
+        "cover": "le-royaume-assassine",
+        "nb_pages": 500,
+        "read": 0,
+        "style": "fantasy,sirene,conte,young adult,romance,ocean",
+        "subtitle": "Integrale",
+        "title": "Le Royaume Assassine",
+        "writer": "Alexandra Christo"
+    },
+    {
+        "cover": "daevabad-tome-1-la-cite-de-laiton",
+        "nb_pages": 627,
+        "read": 0,
+        "style": "fantasy,djinn,aventure,magie,intrigue politique",
+        "subtitle": "Tome 1: La Cite de Laiton",
+        "title": "Daevabad",
+        "writer": "SA Chakraborty"
+    },
+    {
+        "cover": "daevabad-tome-2-le-royaume-de-cuivre",
+        "nb_pages": 746,
+        "read": 0,
+        "style": "fantasy,djinn,aventure,magie,intrigue politique",
+        "subtitle": "Tome 2: Le Royaume de Cuivre",
+        "title": "Daevabad",
+        "writer": "SA Chakraborty"
+    },
+    {
+        "cover": "sorcery-of-thorns",
+        "nb_pages": 576,
+        "read": 0,
+        "style": "fantasy,sorciere,magie,bibliotheque,young adult,demon",
+        "subtitle": "Integrale",
+        "title": "Sorcery of Thorns",
+        "writer": "Margaret Rogerson"
+    },
+    {
+        "cover": "le-cycle-de-dune-tome-1-dune",
+        "nb_pages": 570,
+        "read": 0,
+        "style": "science-fiction,desert,religion,peuple,trahison",
+        "subtitle": "Tome 1",
+        "title": "Dune",
+        "writer": "Frank Herbert"
+    },
+    {
+        "cover": "le-cycle-de-dune-tome-2-le-messie-de-dune",
+        "nb_pages": 245,
+        "read": 0,
+        "style": "science-fiction,desert,religion,peuple,trahison",
+        "subtitle": "Tome 2: Le messie de Dune",
+        "title": "Dune",
+        "writer": "Frank Herbert"
+    },
+    {
+        "cover": "la-chronique-des-bridgerton-tomes-1-et-2-daphne-et-le-duc-anthony",
+        "nb_pages": 736,
+        "read": 0,
+        "style": "amour,historique,aristocratie,deuil,mariage,angleterre",
+        "subtitle": "Tomes 1&2: Daphne & Anthony",
+        "title": "Les Chroniques des Bridgerton 1&2",
+        "writer": "Julia Quinn"
+    },
+    {
+        "cover": "la-chronique-des-bridgerton-tomes-3-et-4-benedict-colin",
+        "nb_pages": 766,
+        "read": 0,
+        "style": "amour,historique,aristocratie,deuil,mariage,angleterre",
+        "subtitle": "Tomes 3&4: Benedicte & Colin",
+        "title": "Les Chroniques des Bridgerton 3&4",
+        "writer": "Julia Quinn"
+    },
+    {
+        "cover": "dance-of-thieves",
+        "nb_pages": 570,
+        "read": 0,
+        "style": "fantasy,romance,mission,royaume,secret",
+        "subtitle": "Tome 1",
+        "title": "Dance of Thieves",
+        "writer": "Mary E Pearson"
+    },
+    {
+        "cover": "phobos-tome-0-origines-774484",
+        "nb_pages": 394,
+        "read": 1,
+        "style": "science-fiction,tele-realite,ado,aventure,romance,dystopie,spatial",
+        "subtitle": "Tome 0: Origines",
+        "title": "Phobos",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "phobos-tome-1-les-ephemeres-640387",
+        "nb_pages": 448,
+        "read": 1,
+        "style": "science-fiction,tele-realite,ado,aventure,romance,dystopie,spatial",
+        "subtitle": "Tome 1: Les Ephemeres",
+        "title": "Phobos",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "phobos-tome-2-701013",
+        "nb_pages": 648,
+        "read": 1,
+        "style": "science-fiction,tele-realite,ado,aventure,romance,dystopie,spatial",
+        "subtitle": "Tome 2",
+        "title": "Phobos",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "phobos-tome-3",
+        "nb_pages": 830,
+        "read": 1,
+        "style": "science-fiction,tele-realite,ado,aventure,romance,dystopie,spatial",
+        "subtitle": "Tome 3",
+        "title": "Phobos",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "phobos-tome-4-horizons",
+        "nb_pages": 853,
+        "read": 1,
+        "style": "science-fiction,tele-realite,ado,aventure,romance,dystopie,spatial",
+        "subtitle": "Tome 4: Horizons",
+        "title": "Phobos",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "cogito",
+        "nb_pages": 538,
+        "read": 0,
+        "style": "science-fiction,IA,young adult,dystopie,futur",
+        "subtitle": "Integrale",
+        "title": "Cogito",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "extincta",
+        "nb_pages": 604,
+        "read": 0,
+        "style": "science-fiction,fin du monde,young adult,dystopie,futur,apocalypse",
+        "subtitle": "Integrale",
+        "title": "Extincta",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "vampyria-tome-1-la-cour-des-tenebres-1521746",
+        "nb_pages": 496,
+        "read": 1,
+        "style": "vampire,fantasy,young adult,royaute",
+        "subtitle": "Tome 1: La Cour des Tenebres",
+        "title": "Vampyria",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "vampyria-tome-2-la-cour-des-miracles-1521744",
+        "nb_pages": 528,
+        "read": 1,
+        "style": "vampire,fantasy,young adult,royaute",
+        "subtitle": "Tome 2: La Cour des Miracles",
+        "title": "Vampyria",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "vampyria-tome-3-la-cour-des-ouragans-4984435",
+        "nb_pages": 583,
+        "read": 1,
+        "style": "vampire,fantasy,young adult,royaute",
+        "subtitle": "Tome 3: La Cour des Ouragans",
+        "title": "Vampyria",
+        "writer": "Victor Dixen"
+    },
+    {
+        "cover": "la-carte-des-confins-tome-1",
+        "nb_pages": 452,
+        "read": 0,
+        "style": "pirate,magie,romance,aventure,humour,voyage",
+        "subtitle": "Tome 1",
+        "title": "La Carte des Confins",
+        "writer": "Marie Reppelin"
+    },
+    {
+        "cover": "la-carte-des-confins-tome-2-4968540",
+        "nb_pages": 516,
+        "read": 0,
+        "style": "pirate,magie,romance,aventure,humour,voyage",
+        "subtitle": "Tome 2",
+        "title": "La Carte des Confins",
+        "writer": "Marie Reppelin"
+    },
+    {
+        "cover": "shadowscent-tome-1-le-parfum-de-lombre",
+        "nb_pages": 463,
+        "read": 0,
+        "style": "young adult,fantasy,poison,triangle amoureux,parfum,royaute",
+        "subtitle": "Tome 1",
+        "title": "Shadowscent",
+        "writer": "PM Freestone"
+    },
+    {
+        "cover": "le-dernier-magicien-tome-1-lars-arcana",
+        "nb_pages": 644,
+        "read": 0,
+        "style": "magie,young adult,complot,fantasy,secret",
+        "subtitle": "Tome 1: L'ars Arcana",
+        "title": "Le Dernier Magicien",
+        "writer": "Lisa Maxwell"
+    },
+    {
+        "cover": "tara-duncan-tome-1-les-sortceliers",
+        "nb_pages": 480,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 1: Les Sorceliers",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-2-le-livre-interdit",
+        "nb_pages": 414,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 2: La Livre interdit",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-3-le-sceptre-maudit",
+        "nb_pages": 381,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 3: Le Sceptre maudit",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-4-le-dragon-renegat",
+        "nb_pages": 413,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 4: Le Dragon renegat",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-5-le-continent-interdit",
+        "nb_pages": 418,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 5: La Continent interdit",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-6-dans-le-piege-de-magister",
+        "nb_pages": 656,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 6: Dans le piege de Magister",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-7-linvasion-fantome",
+        "nb_pages": 506,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 7: L'invasion fantome",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-8-limperatrice-malefique",
+        "nb_pages": 508,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 8: L'imperatrice malefique",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-9-tara-duncan-contre-la-reine-noire",
+        "nb_pages": 506,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 9: Tara Duncan contre la Reine Noire",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-10-dragons-contre-demons",
+        "nb_pages": 527,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 10: Dragons contre demons",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-11-la-guerre-des-planetes",
+        "nb_pages": 528,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 11: La Guerre des planetes",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-12-lultime-combat",
+        "nb_pages": 559,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 12: L'Ultime combat",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "tara-duncan-tome-13-tara-et-cal",
+        "nb_pages": 528,
+        "read": 0,
+        "style": "magie,fantasy,ado,univers parallele,amitie,humour,amour, action,aventure",
+        "subtitle": "Tome 13: Tara et Cal",
+        "title": "Tara Duncan",
+        "writer": "Sophie Audouin-Mamikonian"
+    },
+    {
+        "cover": "havenfall",
+        "nb_pages": 464,
+        "read": 0,
+        "style": "amour,guerre,trahison,magie,romance",
+        "subtitle": "Tome 1",
+        "title": "Haven Fall",
+        "writer": "Sara Holland"
+    },
+    {
+        "cover": "la-legende-de-flora-tome-1-narcissa",
+        "nb_pages": 641,
+        "read": 1,
+        "style": "fantasy,magie,romance,smut",
+        "subtitle": "Tome 1: Narcissa",
+        "title": "La Legende de Flora",
+        "writer": "Ninon Iris H"
+    },
+    {
+        "cover": "souveraines-tome-1",
+        "nb_pages": 624,
+        "read": 0,
+        "style": "fantasy,romance,trahison,manipulation,royaute",
+        "subtitle": "Tome 1: Souveraines",
+        "title": "Castles in their Bones",
+        "writer": "Laura Sebastian"
+    },
+    {
+        "cover": "education-meurtriere-lecon-n1",
+        "nb_pages": 320,
+        "read": 0,
+        "style": "magie,horreur,amitie,young adult,fantasy",
+        "subtitle": "Lecon n\u00b01",
+        "title": "Education Meutriere",
+        "writer": "Naomi Novik"
+    },
+    {
+        "cover": "les-epreuves-dhades-tome-1-le-pouvoir-dhades",
+        "nb_pages": 250,
+        "read": 1,
+        "style": "fantasy,mythologie grecque,dieux",
+        "subtitle": "Le Pouvoir d'Hades",
+        "title": "Les Epreuves d'Hades",
+        "writer": "Eliza Raine & Rose Wilson"
+    },
+    {
+        "cover": "les-epreuves-dhades-tome-2-la-passion-dhades",
+        "nb_pages": 290,
+        "read": 1,
+        "style": "fantasy,mythologie grecque,dieux",
+        "subtitle": "La Passion d'Hades",
+        "title": "Les Epreuves d'Hades",
+        "writer": "Eliza Raine & Rose Wilson"
+    },
+    {
+        "cover": "les-epreuves-dhades-tome-3-la-promesse-dhades",
+        "nb_pages": 277,
+        "read": 1,
+        "style": "fantasy,mythologie grecque,dieux",
+        "subtitle": "La Promesse d'Hades",
+        "title": "Les Epreuves d'Hades",
+        "writer": "Eliza Raine & Rose Wilson"
+    },
+    {
+        "cover": "three-dark-crowns-tome-1-4969156",
+        "nb_pages": 380,
+        "read": 1,
+        "style": "assassinat,amour,destin,fantasy",
+        "subtitle": "Tome 1",
+        "title": "Three Dark Crowns",
+        "writer": "Kendare Blake"
+    },
+    {
+        "cover": "three-dark-crowns-tome-2-one-dark-throne-4981722",
+        "nb_pages": 480,
+        "read": 1,
+        "style": "assassinat,amour,destin,fantasy",
+        "subtitle": "Tome 2: One Dark Throne ",
+        "title": "Three Dark Crowns",
+        "writer": "Kendare Blake"
+    },
+    {
+        "cover": "queen-of-hearts-tome-1-1516456",
+        "nb_pages": 285,
+        "read": 0,
+        "style": "young adult,fantasy,magie,romance,mystere",
+        "subtitle": "Tome 1",
+        "title": "Queen of Hearts",
+        "writer": "Colleen Oakes"
+    },
+    {
+        "cover": "queen-of-hearts-tome-2-blood-of-wonderland-4958890",
+        "nb_pages": 313,
+        "read": 0,
+        "style": "young adult,fantasy,magie,romance,mystere",
+        "subtitle": "Tome 2: Blood of Wonderland",
+        "title": "Queen of Hearts",
+        "writer": "Colleen Oakes"
+    },
+    {
+        "cover": "the-shadows-between-us-tome-1-la-reine-des-ombres-4953470",
+        "nb_pages": 440,
+        "read": 1,
+        "style": "romance,fantasy,ambition,complot",
+        "subtitle": "Integrale",
+        "title": "La Reine des Ombres",
+        "writer": "Tricia Levenseller"
+    },
+    {
+        "cover": "hades-persephone-tome-1-a-touch-of-darkness-4986156",
+        "nb_pages": 429,
+        "read": 1,
+        "style": "romance,smut,mythologie grecque",
+        "subtitle": "Tome 1: A Touch of Darkness",
+        "title": "Hades et Persephone",
+        "writer": "Scarlett St Clair"
+    },
+    {
+        "cover": "hades-persephone-tome-2-a-touch-of-ruin-4996078",
+        "nb_pages": 476,
+        "read": 1,
+        "style": "romance,smut,mythologie grecque",
+        "subtitle": "Tome 2: A Touch of Ruin",
+        "title": "Hades et Persephone",
+        "writer": "Scarlett St Clair"
+    },
+    {
+        "cover": "hades-persephone-tome-3-a-touch-of-malice-4996079",
+        "nb_pages": 521,
+        "read": 1,
+        "style": "romance,smut,mythologie grecque",
+        "subtitle": "Tome 3: A Touch of Malice",
+        "title": "Hades et Persephone",
+        "writer": "Scarlett St Clair"
+    },
+    {
+        "cover": "les-royaumes-immobiles-tome-1-la-princesse-sans-visage-4970381",
+        "nb_pages": 386,
+        "read": 0,
+        "style": "malediction,fantasy,complot,pouvoirs,fae",
+        "subtitle": "Tome 1: La Princesse sans Visage",
+        "title": "Les Royaumes Immobiles",
+        "writer": "Ariel Holzl"
+    },
+    {
+        "cover": "lours-et-le-rossignol-1109894",
+        "nb_pages": 359,
+        "read": 0,
+        "style": "russie,conte,magie,folklore,christianisme,famille",
+        "subtitle": "Integrale",
+        "title": "L'Ours et le Rossignol",
+        "writer": "Katherine Arden"
+    },
+    {
+        "cover": "accords-corrompus-tome-1-reves-de-glace-953839",
+        "nb_pages": 330,
+        "read": 0,
+        "style": "fantasy,romance,aventure,young adult",
+        "subtitle": "Tome 1: Reves de Glace",
+        "title": "Accords Corrompus",
+        "writer": "Kelly St Clare"
+    },
+    {
+        "cover": "the-cursebreakers-tome-1-un-sort-si-noir-et-eternel-1511008",
+        "nb_pages": 687,
+        "read": 0,
+        "style": "fantasy,romance,malediction,young adult",
+        "subtitle": "Tome 1: Un Sort si Noir et Eternel",
+        "title": "The Cursebreakers",
+        "writer": "Brigid Kemmerer"
+    },
+    {
+        "cover": "the-cursebreakers-tome-2-un-coeur-si-loyal-et-solitaire-4987619",
+        "nb_pages": 600,
+        "read": 0,
+        "style": "fantasy,romance,malediction,young adult",
+        "subtitle": "Tome 2: Un Coeur si Loyal et Solitaire",
+        "title": "The Cursebreakers",
+        "writer": "Brigid Kemmerer"
+    },
+    {
+        "cover": "girl-serpent-thorn-4990202",
+        "nb_pages": 409,
+        "read": 0,
+        "style": "fantasy,young adult,queer,lgbt",
+        "subtitle": "Integrale",
+        "title": "Girl, Serpent, Thorn",
+        "writer": "Melissa Bashardoust"
+    },
+    {
+        "cover": "assoiffes-tome-1-1459371",
+        "nb_pages": 576,
+        "read": 1,
+        "style": "vampire,sorciere,loup-garou,ado,young adult,ecole surnaturelle",
+        "subtitle": "Tome 1",
+        "title": "Assoifes",
+        "writer": "Tracy Wolff"
+    },
+    {
+        "cover": "assoiffes-tome-2-foudroyes-4939085",
+        "nb_pages": 636,
+        "read": 1,
+        "style": "vampire,sorciere,loup-garou,ado,young adult,ecole surnaturelle",
+        "subtitle": "Tome 2: Foudroyes",
+        "title": "Assoifes",
+        "writer": "Tracy Wolff"
+    },
+    {
+        "cover": "world-of-warcraft-le-cycle-de-la-haine-126550",
+        "nb_pages": 223,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Le Cycle de la Haine",
+        "title": "World of Warcraft",
+        "writer": "Keith R A Decandido"
+    },
+    {
+        "cover": "world-of-warcraft-lascension-de-la-horde-247494",
+        "nb_pages": 318,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "L'Ascension de la Horde",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-lheure-des-tenebres-219631",
+        "nb_pages": 308,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "L'Heure des Tenebres",
+        "title": "World of Warcraft",
+        "writer": "Aaron Rosenberg"
+    },
+    {
+        "cover": "world-of-wacraft-au-dela-de-la-porte-des-tenebres-1194152",
+        "nb_pages": 333,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Au-dela de la Porte des Tenebres",
+        "title": "World of Warcraft",
+        "writer": "Aaron Rosenberg & Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-la-nuit-du-dragon-900845",
+        "nb_pages": 336,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "La Nuit du Dragon",
+        "title": "World of Warcraft",
+        "writer": "Richard A Knaak"
+    },
+    {
+        "cover": "world-of-warcraft-arthas-lascension-du-roi-liche-123424",
+        "nb_pages": 345,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Arthas: L'ascension du Roi-Liche",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-hurlorage-192247",
+        "nb_pages": 505,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Hurlorage",
+        "title": "World of Warcraft",
+        "writer": "Richard A Knaak"
+    },
+    {
+        "cover": "world-of-warcraft-leffondrement-prelude-au-cataclysme-109990",
+        "nb_pages": 373,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "L'Effondrement: Prelude au Cataclysme",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-thrall-le-crepuscule-des-aspects-239383",
+        "nb_pages": 346,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Thrall: Le Cr\u00e9puscule des Aspects",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-coeur-de-loup-1220203",
+        "nb_pages": 453,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Coeur de Loup",
+        "title": "World of Warcraft",
+        "writer": "Richard A Knaak"
+    },
+    {
+        "cover": "jaina-portvaillant-le-deferlement-3236822",
+        "nb_pages": 455,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Jaina Portvaillant: Le Deferlement",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "warcraft-laube-des-aspects-875650",
+        "nb_pages": 450,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "L'aube des Aspects",
+        "title": "World of Warcraft",
+        "writer": "Richard A Knaak"
+    },
+    {
+        "cover": "world-of-warcraft-voljin-les-ombres-de-la-horde-322683",
+        "nb_pages": 380,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Vol'jin: Les Ombres de la Horde",
+        "title": "World of Warcraft",
+        "writer": "Michael A Stackpole"
+    },
+    {
+        "cover": "world-of-warcraftcrimes-de-guerre-473460",
+        "nb_pages": 458,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Crimes de Guerre",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-illidan-734764",
+        "nb_pages": 353,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Illidan",
+        "title": "World of Warcraft",
+        "writer": "William King"
+    },
+    {
+        "cover": "world-of-warcraft-avant-la-tempete-1055861",
+        "nb_pages": 380,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "Avant la tempete",
+        "title": "World of Warcraft",
+        "writer": "Christie Golden"
+    },
+    {
+        "cover": "world-of-warcraft-larmee-des-ombres-1375216",
+        "nb_pages": 354,
+        "read": 0,
+        "style": "jeu video,fantasy,orc,world of warcraft,guerre,magie,elf,troll",
+        "subtitle": "L'armee des ombres",
+        "title": "World of Warcraft",
+        "writer": "Madeleine Roux"
+    },
+    {
+        "cover": "poison-charme-beaute-integrale-692116",
+        "nb_pages": 544,
+        "read": 1,
+        "style": "conte revisite,smut,magie,romance,fantasy",
+        "subtitle": "L'integrale",
+        "title": "Poison Charme Beaute",
+        "writer": "Sarah Pinborough"
+    },
+    {
+        "cover": "un-palais-depines-et-de-roses-1406059",
+        "nb_pages": 521,
+        "read": 1,
+        "style": "fantasy,fae,smut,romance,amou,pouvoir,new adult",
+        "subtitle": "Tome 1",
+        "title": "Un Palais d'Epines et de Roses",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "un-palais-de-colere-et-de-brume-1406069",
+        "nb_pages": 715,
+        "read": 1,
+        "style": "fantasy,fae,smut,romance,amou,pouvoir,new adult",
+        "subtitle": "Tome 2: Un Palais de Colere et de Brume",
+        "title": "Un Palais d'Epines et de Roses",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "un-palais-de-cendres-et-de-ruines-1406074",
+        "nb_pages": 727,
+        "read": 1,
+        "style": "fantasy,fae,smut,romance,amou,pouvoir,new adult",
+        "subtitle": "Tome 3: Un Palais de Cendres et de Ruines",
+        "title": "Un Palais d'Epines et de Roses",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "un-palais-de-glace-et-de-lumiere-1406080",
+        "nb_pages": 330,
+        "read": 1,
+        "style": "fantasy,fae,smut,romance,amou,pouvoir,new adult",
+        "subtitle": "Tome 4: Un Palais de Glace et de Lumiere",
+        "title": "Un Palais d'Epines et de Roses",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "un-palais-de-flammes-dargent-4928425",
+        "nb_pages": 809,
+        "read": 1,
+        "style": "fantasy,fae,smut,romance,amou,pouvoir,new adult",
+        "subtitle": "Tome 5: Un Palais de Flammes d'Argent",
+        "title": "Un Palais d'Epines et de Roses",
+        "writer": "Sarah J Maas"
+    },
+    {
+        "cover": "les-chroniques-lunaires-tome-1-cinder-3851822",
+        "nb_pages": 416,
+        "read": 1,
+        "style": "science-fiction,conte revisite,romance,dystopie,aventure",
+        "subtitle": "Tome 1: Cinder",
+        "title": "Les Chroniques Lunaires",
+        "writer": "Marissa Meyer"
+    },
+    {
+        "cover": "les-chroniques-lunaires-tome-2-scarlet-331801",
+        "nb_pages": 480,
+        "read": 1,
+        "style": "science-fiction,conte revisite,romance,dystopie,aventure",
+        "subtitle": "Tome 2: Scarlet",
+        "title": "Les Chroniques Lunaires",
+        "writer": "Marissa Meyer"
+    },
+    {
+        "cover": "les-chroniques-lunaires-tome-3-cress-516346",
+        "nb_pages": 672,
+        "read": 1,
+        "style": "science-fiction,conte revisite,romance,dystopie,aventure",
+        "subtitle": "Tome 3: Cress",
+        "title": "Les Chroniques Lunaires",
+        "writer": "Marissa Meyer"
+    },
+    {
+        "cover": "les-chroniques-lunaires-tome-35-levana-613121",
+        "nb_pages": 256,
+        "read": 1,
+        "style": "science-fiction,conte revisite,romance,dystopie,aventure",
+        "subtitle": "Tome 3.5: Levana",
+        "title": "Les Chroniques Lunaires",
+        "writer": "Marissa Meyer"
+    },
+    {
+        "cover": "les-chroniques-lunaires-tome-4-winter-724891",
+        "nb_pages": 992,
+        "read": 1,
+        "style": "science-fiction,conte revisite,romance,dystopie,aventure",
+        "subtitle": "Tome 4: Winter",
+        "title": "Les Chroniques Lunaires",
+        "writer": "Marissa Meyer"
+    },
+    {
+        "cover": "heartless-972270",
+        "nb_pages": 608,
+        "read": 1,
+        "style": "fantasy,conte revisite,amour,magie,young adult",
+        "subtitle": "Integrale",
+        "title": "Heartless",
+        "writer": "Marissa Meyer"
+    },
+    {
+        "cover": "harry-potter-tome-1-harry-potter-a-lecole-des-sorciers-835229",
+        "nb_pages": 384,
+        "read": 1,
+        "style": "aventure,amitie,action,fantasy,magie,ecole",
+        "subtitle": "Tome 1: L'ecole des sorciers",
+        "title": "Harry Potter",
+        "writer": "JK Rowling"
+    },
+    {
+        "cover": "le-joyau-tome-1-479766",
+        "nb_pages": 468,
+        "read": 1,
+        "style": "dystopie,amour interdit,magie,fantasy,mere porteuse,young adult",
+        "subtitle": "Tome 1",
+        "title": "Le joyau",
+        "writer": "Amy Ewing"
+    },
+    {
+        "cover": "le-joyau-tome-2-la-rose-blanche-650077",
+        "nb_pages": 414,
+        "read": 1,
+        "style": "dystopie,amour interdit,magie,fantasy,mere porteuse,young adult",
+        "subtitle": "Tome 2: La Rose Blanche",
+        "title": "Le joyau",
+        "writer": "Amy Ewing"
+    },
+    {
+        "cover": "le-joyau-tome-3-la-cle-noire-803628",
+        "nb_pages": 396,
+        "read": 1,
+        "style": "dystopie,amour interdit,magie,fantasy,mere porteuse,young adult",
+        "subtitle": "Tome 3: La Cle Noire",
+        "title": "Le joyau",
+        "writer": "Amy Ewing"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-1-marquee-47412",
+        "nb_pages": 336,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 1: Marquee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-2-trahie-52232",
+        "nb_pages": 336,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 2: Trahie",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-3-choisie-75547",
+        "nb_pages": 264,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 3: Choisie",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-4-rebelle-103236",
+        "nb_pages": 336,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 4: Rebelle",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-5-traquee-175893",
+        "nb_pages": 352,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 5: Traquee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-6-tentee-255717",
+        "nb_pages": 384,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 6: Tentee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-7-brulee-414032",
+        "nb_pages": 368,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 7: Brulee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-8-liberee-3237513",
+        "nb_pages": 312,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 8: Liberee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-9-destinee-118315",
+        "nb_pages": 432,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 9: Destinee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-hs-la-promesse-de-dragon-536935",
+        "nb_pages": 144,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 9.1: La Promesse de Dragon",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-95-le-serment-de-lenobia-662644",
+        "nb_pages": 154,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 9.2: Le Serment de Lenobia",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-10-cachee-393845",
+        "nb_pages": 384,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 10: Cachee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-hs-105-la-malediction-de-neferet-592615",
+        "nb_pages": 192,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 10.5: La Malediction de Neferet",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-11-revelee-871586",
+        "nb_pages": 384,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 11: Revelee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-hs-la-chute-de-kalona-616593",
+        "nb_pages": 160,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 11.5: La Chute de Kalona",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "la-maison-de-la-nuit-tome-12-sauvee-631307",
+        "nb_pages": 408,
+        "read": 1,
+        "style": "fantastique,fantasy,amour,amitie,magie,suspence",
+        "subtitle": "Tome 12: Sauvee",
+        "title": "La Maison de la Nuit",
+        "writer": "PC Cast & Kristin Cast"
+    },
+    {
+        "cover": "amos-daragon-tome-1-porteur-de-masques-35808",
+        "nb_pages": 187,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 1: Le Porteur de Masque",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-2-la-cle-de-braha-35812",
+        "nb_pages": 190,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 2: La Cle de Braha",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-3-le-crepuscule-des-dieux-32597",
+        "nb_pages": 190,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 3: Le Crepuscule des Dieux",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-4-la-malediction-de-freyja-32596",
+        "nb_pages": 190,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 4: La Malediction de Freyja",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-5-la-tour-del-bab-31291",
+        "nb_pages": 192,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 5: La Tour d'El-Bab",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-6-la-colere-denki-184515",
+        "nb_pages": 190,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 6: La Colere d'Enki",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-7-voyage-aux-enfers-184516",
+        "nb_pages": 190,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 7: Voyage aux Enfers",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-8-la-cite-de-pegase-184517",
+        "nb_pages": 191,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 8: La Cite de Pegase",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-9-la-toison-dor-184518",
+        "nb_pages": 204,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 9: La Toison d'Or",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-10-la-grande-croisade-184519",
+        "nb_pages": 205,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 10: La Grande Croisade",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-11-le-masque-de-lether-184520",
+        "nb_pages": 206,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 11: Le Masque de l'Ether",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "amos-daragon-tome-12-la-fin-des-dieux-184521",
+        "nb_pages": 206,
+        "read": 1,
+        "style": "fantasy,combat,jeunesse,heroic fantasy,amitie,magie",
+        "subtitle": "Tome 12: La Fin des Dieux",
+        "title": "Amos Daragon",
+        "writer": "Bryan Perro"
+    },
+    {
+        "cover": "la-selection-tome-1-la-selection-945412",
+        "nb_pages": 360,
+        "read": 1,
+        "style": "amour,dystopie,triangle amoureux,romance,young adult,amitie",
+        "subtitle": "Tome 1",
+        "title": "La Selection",
+        "writer": "Kiera Cass"
+    },
+    {
+        "cover": "la-selection-tome-2-lelite-1405995",
+        "nb_pages": 324,
+        "read": 1,
+        "style": "amour,dystopie,triangle amoureux,romance,young adult,amitie",
+        "subtitle": "Tome 2: L'Elite",
+        "title": "La Selection",
+        "writer": "Kiera Cass"
+    },
+    {
+        "cover": "la-selection-tome-3-lelue-425659",
+        "nb_pages": 360,
+        "read": 1,
+        "style": "amour,dystopie,triangle amoureux,romance,young adult,amitie",
+        "subtitle": "Tome 3: L'Elue",
+        "title": "La Selection",
+        "writer": "Kiera Cass"
+    },
+    {
+        "cover": "la-selection-tome-4-lheritiere-607204",
+        "nb_pages": 432,
+        "read": 1,
+        "style": "amour,dystopie,triangle amoureux,romance,young adult,amitie",
+        "subtitle": "Tome 4: L'Heritiere",
+        "title": "La Selection",
+        "writer": "Kiera Cass"
+    },
+    {
+        "cover": "la-faucheuse-tome-1-futur-parfait-878048",
+        "nb_pages": 504,
+        "read": 1,
+        "style": "dystopie,science-fiction,mort,futur,young adult,IA",
+        "subtitle": "Tome 1: Futur parfait",
+        "title": "La Faucheuse",
+        "writer": "Neal Shusterman"
+    },
+    {
+        "cover": "la-faucheuse-tome-2-thunderhead-1010536",
+        "nb_pages": 576,
+        "read": 0,
+        "style": "dystopie,science-fiction,mort,futur,young adult,IA",
+        "subtitle": "Tome 2: Thunderhead",
+        "title": "La Faucheuse",
+        "writer": "Neal Shusterman"
+    },
+    {
+        "cover": "le-grimoire-au-rubis-tome-1-le-secret-des-hiboux-57630",
+        "nb_pages": 326,
+        "read": 1,
+        "style": "grimoire,moyen age,magie,sorcellerie,aventure,jeunesse",
+        "subtitle": "Tome 1: Le Secret des Hiboux",
+        "title": "Le Grimoire au Rubis",
+        "writer": "Beatrice Bottet"
+    },
+    {
+        "cover": "le-grimoire-au-rubis-tome-2-le-sortilege-du-chat-11802",
+        "nb_pages": 368,
+        "read": 1,
+        "style": "grimoire,moyen age,magie,sorcellerie,aventure,jeunesse",
+        "subtitle": "Tome 2: Le Sortilege du Chat",
+        "title": "Le Grimoire au Rubis",
+        "writer": "Beatrice Bottet"
+    },
+    {
+        "cover": "le-grimoire-au-rubis-tome-3-le-chant-des-loups-408808",
+        "nb_pages": 416,
+        "read": 1,
+        "style": "grimoire,moyen age,magie,sorcellerie,aventure,jeunesse",
+        "subtitle": "Tome 3: Le Chant des Loups",
+        "title": "Le Grimoire au Rubis",
+        "writer": "Beatrice Bottet"
+    },
+    {
+        "cover": "sword-art-online-tome-1-aincrad-981509",
+        "nb_pages": 512,
+        "read": 1,
+        "style": "monde virtuel,quete,aventure,action,jeu,romance,manga",
+        "subtitle": "Tome 1: Aincrad",
+        "title": "Sword Art Online",
+        "writer": "Reki Kawahara"
+    },
+    {
+        "cover": "sword-art-online-tome-2-fairy-dance-596031",
+        "nb_pages": 447,
+        "read": 0,
+        "style": "monde virtuel,quete,aventure,action,jeu,romance,manga",
+        "subtitle": "Tome 2: fairy Dance",
+        "title": "Sword Art Online",
+        "writer": "Reki Kawahara"
+    },
+    {
+        "cover": "les-chroniques-de-spiderwick-lintegrale-349225",
+        "nb_pages": 492,
+        "read": 1,
+        "style": "fee,aventure,fantastique,quete,fantasy",
+        "subtitle": "Integrale",
+        "title": "Les Chroniques de Spiderwick",
+        "writer": "T DiTerlizzi & H Black"
+    },
+    {
+        "cover": "demon-slayer-roman-n01-la-fleur-du-bonheur-1521180",
+        "nb_pages": 208,
+        "read": 0,
+        "style": "demon,aventure,surnaturel,action,manga",
+        "subtitle": "Tome 1: La Fleur du Bonheur",
+        "title": "Demon Slayer",
+        "writer": "Aya Yajima"
+    },
+    {
+        "cover": "lattaque-des-titans-lost-girls-776515",
+        "nb_pages": 256,
+        "read": 0,
+        "style": "drogue,science-fiction,mort,enquete,amitie,titan,manga",
+        "subtitle": "Lost Girl",
+        "title": "Attaque des Titans",
+        "writer": "Hoshiro Seko"
+    },
+    {
+        "cover": "lattaque-des-titans-hope-of-the-city-848879",
+        "nb_pages": 256,
+        "read": 0,
+        "style": "amour,amitie,sang,isolement,armee,combat,manga",
+        "subtitle": "Hope of the City",
+        "title": "Attaque des Titans",
+        "writer": "Ryo Kawakami"
+    },
+    {
+        "cover": "lattaque-des-titans-harsh-mistress-of-the-city-879331",
+        "nb_pages": 256,
+        "read": 0,
+        "style": "amour,amitie,sang,isolement,armee,combat,manga",
+        "subtitle": "Harsh Mistress of the City",
+        "title": "Attaque des Titans",
+        "writer": "Ryo Kawakami"
+    },
+    {
+        "cover": "vespertine-4967508",
+        "nb_pages": 448,
+        "read": 0,
+        "style": "fantasy,young adult,esprit,pouvoir,amitie,possession",
+        "subtitle": "Int\u00e9grale",
+        "title": "Vespertine",
+        "writer": "Margaret Rogerson"
+    },
+    {
+        "cover": "witch-and-god-tome-1-ella-la-promise-4933523",
+        "nb_pages": 379,
+        "read": 1,
+        "style": "mythologie grecque,sorciere,fantasy,mariage arrange",
+        "subtitle": "Tome 1: Ella la Promise",
+        "title": "Witch and God",
+        "writer": "Liv Stone"
+    },
+    {
+        "cover": "witch-and-god-tome-2-lenlevement-de-circe-4937119",
+        "nb_pages": 425,
+        "read": 0,
+        "style": "mythologie grecque,sorciere,fantasy,mariage arrange",
+        "subtitle": "Tome 2: L'Enlevement de Circe",
+        "title": "Witch and God",
+        "writer": "Liv Stone"
+    },
+    {
+        "cover": "magic-academy-tome-1-la-magie-oubliee-4964051",
+        "nb_pages": 412,
+        "read": 1,
+        "style": "magie,vampire,loup-garou,young adult,ecole de magie,fantasy",
+        "subtitle": "Tome 1: La Magie Oubliee",
+        "title": "Magic Academy",
+        "writer": "Jupiter Phaeton"
+    },
+    {
+        "cover": "magic-academy-tome-2-la-morsure-du-loup-4965349",
+        "nb_pages": 378,
+        "read": 1,
+        "style": "magie,vampire,loup-garou,young adult,ecole de magie,fantasy",
+        "subtitle": "Tome 2: La Morsure du Loup",
+        "title": "Magic Academy",
+        "writer": "Jupiter Phaeton"
+    },
+    {
+        "cover": "magic-academy-tome-3-la-legende-des-vampires-4990028",
+        "nb_pages": 374,
+        "read": 1,
+        "style": "magie,vampire,loup-garou,young adult,ecole de magie,fantasy",
+        "subtitle": "Tome 3: La L\u00e9gende des Vampires",
+        "title": "Magic Academy",
+        "writer": "Jupiter Phaeton"
+    },
+    {
+        "cover": "magic-academy-tome-4-le-pouvoir-du-sang-4999374",
+        "nb_pages": 331,
+        "read": 1,
+        "style": "magie,vampire,loup-garou,young adult,ecole de magie,fantasy",
+        "subtitle": "Tome 4: Le Pouvoir du Sang",
+        "title": "Magic Academy",
+        "writer": "Jupiter Phaeton"
+    },
+    {
+        "cover": "magic-academy-tome-5-le-sort-des-demons-5010155",
+        "nb_pages": 442,
+        "read": 0,
+        "style": "magie,vampire,loup-garou,young adult,ecole de magie,fantasy",
+        "subtitle": "Tome 5: Le Sort des Demons",
+        "title": "Magic Academy",
+        "writer": "Jupiter Phaeton"
+    },
+    {
+        "cover": "le-prince-des-tenebres-tome-1-la-mort-dans-lame-3497743",
+        "nb_pages": 328,
+        "read": 0,
+        "style": "romance,amour,vampire,sexe,erotisme",
+        "subtitle": "Tome 1: La Mort dans l'Ame",
+        "title": "Le Prince des T\u00e9n\u00e8bres",
+        "writer": "Jeaniene Frost"
+    },
+    {
+        "cover": "prince-captif-tome-1-lesclave-5013385",
+        "nb_pages": 541,
+        "read": 0,
+        "style": "esclavage,fantasy,aventure,trahison,sexe,smut,romance",
+        "subtitle": "Tome 1 & 2: L'Esclave - Le Guerrier",
+        "title": "Prince Captif",
+        "writer": "CS Pacat"
+    },
+    {
+        "cover": "prince-captif-tome-3-le-roi-5013389",
+        "nb_pages": 351,
+        "read": 0,
+        "style": "esclavage,fantasy,aventure,trahison,sexe,smut,romance",
+        "subtitle": "Tome 3: Le Roi",
+        "title": "Prince Captif",
+        "writer": "CS Pacat"
+    },
+    {
+        "cover": "nevernight-tome-1-noublie-jamais-4959866",
+        "nb_pages": 753,
+        "read": 0,
+        "style": "fantasy,vengeance,sexe,smut,meutre,religion",
+        "subtitle": "Tome 1: N'oublie jamais ",
+        "title": "Nevernight",
+        "writer": "Jay Kristoff"
+    },
+    {
+        "cover": "nevernight-tome-2-les-grands-jeux-1483385",
+        "nb_pages": 776,
+        "read": 0,
+        "style": "fantasy,vengeance,sexe,smut,meutre,religion",
+        "subtitle": "Tome 2: Les Grands Jeux",
+        "title": "Nevernight",
+        "writer": "Jay Kristoff"
+    },
+    {
+        "cover": "nevernight-tome-3-laube-obscure-4973353",
+        "nb_pages": 894,
+        "read": 0,
+        "style": "fantasy,vengeance,sexe,smut,meutre,religion",
+        "subtitle": "Tome 3: L'Aube Obscure",
+        "title": "Nevernight",
+        "writer": "Jay Kristoff"
+    },
+    {
+        "cover": "le-tribut-des-dieux-tome-1-octavia-4982094",
+        "nb_pages": 441,
+        "read": 0,
+        "style": "fantasy,famille,young adult,dieux,deuil",
+        "subtitle": "Tome 1: Octavia",
+        "title": "Le Tribut des Dieux",
+        "writer": "Bleuenn Guillou"
+    },
+    {
+        "cover": "les-loups-du-x-clan-tome-1-la-promise-de-lalpha-1427777",
+        "nb_pages": 356,
+        "read": 1,
+        "style": "dystopie,romance,sexe,loup garou,vengeance,meute,fantastique",
+        "subtitle": "Tome 1: La Promise de l'Alpha",
+        "title": "Les Loups du X-Clan",
+        "writer": "Lexi C Foss"
+    },
+    {
+        "cover": "les-loups-du-x-clan-tome-2-la-compagne-de-lalpha-1427779",
+        "nb_pages": 174,
+        "read": 1,
+        "style": "dystopie,romance,sexe,loup garou,vengeance,meute,fantastique",
+        "subtitle": "Tome 2: La Compagne de l'Alpha",
+        "title": "Les Loups du X-Clan",
+        "writer": "Lexi C Foss"
+    },
+    {
+        "cover": "les-loups-du-x-clan-tome-3-le-trone-de-lalpha-1427780",
+        "nb_pages": 426,
+        "read": 1,
+        "style": "dystopie,romance,sexe,loup garou,vengeance,meute,fantastique",
+        "subtitle": "Tome 3: Le Trone de l'Alpha",
+        "title": "Les Loups du X-Clan",
+        "writer": "Lexi C Foss"
+    },
+    {
+        "cover": "les-loups-du-x-clan-tome-4-la-revanche-de-lalpha-1462469",
+        "nb_pages": 315,
+        "read": 1,
+        "style": "dystopie,romance,sexe,loup garou,vengeance,meute,fantastique",
+        "subtitle": "Tome 4: La Revanche de l'Alpha",
+        "title": "Les Loups du X-Clan",
+        "writer": "Lexi C Foss"
+    },
+    {
+        "cover": "lile-du-massacre-4997154",
+        "nb_pages": 462,
+        "read": 1,
+        "style": "dystopie,romance,sexe,loup garou,vengeance,meute,fantastique",
+        "subtitle": "Tome 1",
+        "title": "L'Ile du Massacre",
+        "writer": "Lexi C Foss"
+    },
+    {
+        "cover": "fable-tome-1-laventuriere-des-mers-5013929",
+        "nb_pages": 416,
+        "read": 0,
+        "style": "fantasy,young adult,romance,pirate,mer,aventure",
+        "subtitle": "Tome 1: L'Aventuriere des Mers",
+        "title": "Fable",
+        "writer": "Adrienne Young"
+    }
+]
